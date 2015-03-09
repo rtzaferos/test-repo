@@ -1,2 +1,2 @@
 # test-repo
-ola kala?
+this is a test repo
